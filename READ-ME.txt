@@ -1,1 +1,8 @@
+Java game made with 5 weeks of experience in Java.
+Project made by a group of 5 people to the event Game Week of Academia de Código.
 
+
+Instructions:
+Press Space to start the game;
+Use narrow keys to move;
+Press E to eat the Humans;
